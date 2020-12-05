@@ -12,8 +12,8 @@ phases:
     commands:
       - mkdir -p target/stg
       - mkdir target/prod
-      - serverless package --package target/stg --stage stg -v -r eu-central-1
-      - serverless package --package target/prod --stage prod -v -r eu-central-1
+      - serverless package --package target/stg --stage stage -v -r ap-south-1
+      - serverless package --package target/prod --stage prod -v -r ap-south-1
 
 artifacts:
   files:
