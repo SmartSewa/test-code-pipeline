@@ -15,6 +15,7 @@ phases:
       - serverless package --package target/stage --stage stage -v -r ap-south-1
       - serverless package --package target/prod --stage prod -v -r ap-south-1
 
+
 artifacts:
   files:
     - target/**/*
