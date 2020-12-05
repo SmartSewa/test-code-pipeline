@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fec662fc-417b-4953-b541-a25925431117" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607201935469</updated>
-      <workItem from="1607201944507" duration="2601000" />
+      <workItem from="1607201944507" duration="3034000" />
     </task>
     <servers />
   </component>
@@ -74,10 +74,10 @@
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="356" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.730@0.23.1280.730" timestamp="1607202281313" />
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1607202889371">
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1607204609191">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1607202889371" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1607204609191" />
     <state x="370" y="305" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607202021143">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
