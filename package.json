@@ -1,0 +1,22 @@
+{
+  "name": "test-code-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartSewa/test-code-pipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartSewa/test-code-pipeline/issues"
+  },
+  "homepage": "https://github.com/SmartSewa/test-code-pipeline#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
