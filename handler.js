@@ -6,7 +6,7 @@ module.exports.hello = async event => {
     statusCode: 200,
     body: JSON.stringify(
       {
-        message: 'Hey, Server time is '+moment.now(),
+        message: 'Hey, Server time is '+moment().format("DD MMM YYYY hh:mm:ss"),
       },
       null,
       2
